@@ -14,7 +14,7 @@ const login = (props:Props) => {
  const {navigation} = props;
 
  const go = ()=>{
-   navigation.navigate("signup",{text:"dfdm"})
+   navigation.navigate("signup", {text:"dfdm"})
  }
   return (
     <View>(
